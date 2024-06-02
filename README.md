@@ -7,8 +7,8 @@ Just picture being able to upload a portrait and instantly witnessing it undergo
 
 TO RUN THE CODE:
 
-1. extract the model: cd models
+1. Extract the model: cd experimens/main.py
 
-2. run the camera_demo, specify the model and disable cuda:
+2. To run the camera_demo, specify the model and disable cuda: Run camera_demo.py
 
-3. Run python camera_demo.py demo --model models/21styles.model --cuda=0
+4. Run python camera_demo.py demo --model models/21styles.model --cuda=0

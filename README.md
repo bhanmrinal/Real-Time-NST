@@ -5,7 +5,7 @@ Just picture being able to upload a portrait and instantly witnessing it undergo
 
 
 
-TO RUN THE CODE:
+## TO RUN THE CODE:
 
 1. Extract the model: cd experimens/main.py
 

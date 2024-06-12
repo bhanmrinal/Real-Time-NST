@@ -1,3 +1,0 @@
-*.python linguist-detectable=true
-*.Containerfile linguist-detectable=true
-*.* linguist-detectable=false

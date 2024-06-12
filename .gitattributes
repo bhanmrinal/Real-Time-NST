@@ -1,3 +1,2 @@
-*.Containerfile linguist-detectable=true
-*.python linguist-detectable=true
-*.* linguist-detectable=false
+* linguist-vendored
+*.python linguist-vendored=false
